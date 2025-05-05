@@ -1,0 +1,49 @@
+body {
+    background-color: rgba(128, 255, 0, 0.429);
+}
+h1 {
+    font-family: "Impact", cursive, sans-serif;
+font-size: 40px;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #ffce2b;
+font-weight: 700;
+text-decoration: none solid rgb(68, 68, 68);
+font-style: normal;
+font-variant: normal;
+text-transform: uppercase;
+}
+.p{
+    font-family: "Arial", cursive, sans-serif;
+font-size: 18px;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #a0a82c;
+font-weight: 1000;
+text-decoration: none solid rgb(68, 68, 68);
+font-style: normal;
+font-variant: normal;
+text-transform: uppercase;
+
+}
+ .M1{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+font-size: 28px;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #000000;
+font-weight: 800;
+text-decoration: none solid rgb(68, 68, 68);
+font-style: normal;
+font-variant: normal;
+text-transform: uppercase;
+}
+#One{
+color: #e30e0e;
+}
+#Two {
+ color: #e70ddc;   
+}
+#Three{
+color: #18dde0; 
+}

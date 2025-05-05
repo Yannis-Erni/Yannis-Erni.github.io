@@ -1,0 +1,49 @@
+body {
+    background-color: rgba(255, 0, 0, 0.374);
+}
+h1 {
+    font-family: "Impact", cursive, sans-serif;
+font-size: 40px;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #ff0000;
+font-weight: 700;
+text-decoration: none solid rgb(68, 68, 68);
+font-style: normal;
+font-variant: normal;
+text-transform: uppercase;
+}
+.p{
+    font-family: "Arial", cursive, sans-serif;
+font-size: 18px;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #ff0000;
+font-weight: 1000;
+text-decoration: none solid rgb(68, 68, 68);
+font-style: normal;
+font-variant: normal;
+text-transform: uppercase;
+
+}
+ .ol{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+font-size: 28px;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #ff0000;
+font-weight: 800;
+text-decoration: none solid rgb(68, 68, 68);
+font-style: normal;
+font-variant: normal;
+text-transform: uppercase;
+}
+#One{
+color: #ff0000;
+}
+#Two {
+ color: #ff0000;   
+}
+#Three{
+color: #ff0000; 
+}
